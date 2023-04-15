@@ -34,5 +34,14 @@
     "**/.vercel/": true,
     "**/.google.json": true
   },
-  "cSpell.words": ["noflash"]
+  "cSpell.words": [
+    "atrule",
+    "callout",
+    "maxage",
+    "noflash",
+    "octo",
+    "octocat",
+    "urlset",
+    "zhihu"
+  ]
 }

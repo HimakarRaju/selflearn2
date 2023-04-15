@@ -11,6 +11,20 @@
           "meta[name=theme-color]"
         ]
       }
+    ],
+    "typescript-config/strict": "off",
+    "no-inline-styles": "off",
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "backdrop-filter",
+          "@-moz-document",
+          "scrollbar-width",
+          "@-moz-document",
+          "@-moz-document"
+        ]
+      }
     ]
   }
 }
